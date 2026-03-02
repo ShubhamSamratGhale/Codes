@@ -1,0 +1,5 @@
+To play game, run the AssassinsCreedII exe
+
+If you get any missing dll or other startup issues, go inside the Redist folder and install DirectX, UbisoftGameLauncherInstaller and VCRedist 
+
+For more FREE PC games, visit steamunlocked.com
