@@ -1,0 +1,209 @@
+################################################################################
+
+Ubisoft Entertainment
+Assassin's Creed II
+LISEZMOI.TXT 1.00
+
+################################################################################
+
+Table des matières
+
+################################################################################
+
+1. Instructions pour l'installation
+1.1. Configuration requise
+1.2. Sélection de la langue
+2. Problèmes connus
+2.1. Installation des pilotes vidéo et des pilotes de la carte mère
+2.2. Installation des pilotes audio
+2.3. Installation de DirectX
+2.4. Bugs et commentaires
+3. Support technique, contacts et sites Web utiles
+3.1. Support technique
+3.2. Sites Web utiles
+
+################################################################################
+
+1. Instructions pour l'installation
+
+################################################################################
+
+1.1. Configuration requise
+
+Configuration minimale :
+SYSTÈME D'EXPLOITATION : Windows® XP (32/64 bits), Windows Vista® (32/64 bits), 
+Windows 7® (32/64 bits) 
+Processeur : Intel Core® 2 Duo cadencé à 1,8 GHz ou AMD Athlon X2 64 à 2,4GHz
+RAM : 1,5 Go sous Windows® XP. 2 Go sous Windows Vista® et Windows 7®.
+Carte graphique : Carte graphique 256 Mo compatible DirectX® 9.0 avec support 
+Shader Model 3.0 ou plus (voir la liste des cartes prises en charge)
+Carte son : Carte son compatible DirectX 9.0 
+Version de DirectX : DirectX 9.0 
+DVD-Rom : Lecteur de DVD-Rom double couche
+Espace disque disponible : 8 Go
+Périphériques pris en charge : Clavier, souris, manette en option
+
+* Ce jeu ne fonctionne pas sous Windows® 98/ME/2000/NT
+
+
+Configuration recommandée :
+Processeur : Intel Core® 2 Duo E6700 cadencé à 2,6 GHz, AMD Athlon 64 X2 6000+ ou plus rapide
+Carte graphique : GeForce® 8800 GT, ATI Radeon® HD 4700 ou mieux
+Son : Carte son 5.1
+Périphériques : Clavier, souris, manette en option (manette Xbox 360® pour Windows recommandée)
+ 
+
+Cartes graphiques prises en charge au moment de la sortie du jeu :
+ATI® RADEON® séries X1950, HD 2000/3000/4000/5000
+NVIDIA GeForce® séries 7/8/9/100/200
+
+  Les versions de ces cartes destinées aux ordinateurs portables peuvent 
+  fonctionner mais ne sont PAS prises en charge. Seuls les chipsets ci-dessus
+  fonctionneront de façon certaine avec le jeu. Pour obtenir une mise à jour de 
+  cette liste, consultez la FAQ du jeu sur la page Web de notre support technique, 
+  à l’adresse : http://support.ubi.com.
+
+
+* Une connexion permanente à Internet est requise pour jouer à ce jeu.
+
+--------------------------------------------------------------------------------
+1.2. Sélection de la langue
+
+La langue choisie au début de l'installation est celle qui sera utilisée dans le 
+jeu. Pour changer la langue, vous devez désinstaller le jeu et le réinstaller.
+
+
+################################################################################
+
+2. Problèmes connus
+
+################################################################################
+
+2.1. Installation des pilotes vidéo et des pilotes de la carte mère
+
+Si vous rencontrez des problèmes graphiques, installez les derniers pilotes
+disponibles pour votre carte graphique et votre carte mère. Des liens vers les
+fabricants des cartes graphiques et cartes mères les plus courantes sont
+disponibles à la fin de ce document.
+
+--------------------------------------------------------------------------------
+2.2. Installation des pilotes audio
+
+Si vous rencontrez des problèmes de son, installez les derniers pilotes audio
+disponibles pour votre carte son. Des liens vers les fabricants des cartes
+son les plus courantes sont disponibles à la fin de ce document.
+
+--------------------------------------------------------------------------------
+2.3. Installation de DirectX
+
+Assassin's Creed II nécessite les DLL d'exécution de DirectX d'août 2009 ou 
+ultérieures pour fonctionner correctement. Pour obtenir la dernière version en
+date de DirectX, rendez-vous à l'adresse :
+http://www.microsoft.com/windows/directx
+
+ 
+DirectX est également fourni sur le disque d'installation, dans le dossier 
+Support\DirectX. 
+ 
+Si vous obtenez un message d'erreur indiquant des DLL manquantes, essayez de
+réinstaller DirectX à partir du disque d'installation.
+
+--------------------------------------------------------------------------------
+2.4. Bugs et commentaires
+
+* Il est vivement déconseillé d'installer le jeu dans le répertoire de Windows
+  (généralement C:\Windows), dans un de ses sous-répertoires, ou à la racine du
+  disque système (généralement C:\).
+
+* Nous vous recommandons de quitter toutes les applications en cours d'exécution 
+  avant d'installer le jeu, afin de minimiser les risques de conflits logiciels.
+
+* Si vous utilisez une manette à retour de force Saitek P2600, nous vous 
+  conseillons d'installer les pilotes développés par Saitek (voir la section 
+  3.2) au lieu de ceux fournis avec Windows. En effet, avec les pilotes de
+  Windows, vous devrez peut-être reconfigurer l'axe Haut/Bas du stick droit à 
+  partir du menu Options du jeu pour que votre périphérique fonctionne 
+  correctement.
+
+* Si vous utilisez une carte Realtek High Definition Audio, Soundmax HD Audio ou 
+  nForce Audio, vous rencontrerez peut-être certaines anomalies sonores. Pour
+  y remédier, ouvrez le Panneau de configuration Sons et périphériques audio de 
+  Windows, cliquez sur l'onglet Audio, choisissez Paramètres avancés, 
+  Performances, et déplacez la glissière pour réduire l'Accélération matérielle.
+
+* Si votre ordinateur est équipé d'un processeur AMD double coeur, certains 
+  éléments des menus risquent de clignoter rapidement. Pour corriger le problème,
+  installez l'application "AMD Dual-Core Optimizer", disponible sur le site Web 
+  d'AMD (voir la section 3.2).
+
+* Si vous rencontrez des problèmes d'affichage, ouvrez le panneau de 
+  configuration de votre carte graphique et vérifiez que son pilote est configuré 
+  pour donner la préférence aux paramètres de l'application.
+
+* La fonction de vibration est prise en charge uniquement avec les manettes Xbox 
+  360.
+
+################################################################################
+
+3. Support technique, contacts et sites Web utiles 
+
+################################################################################
+
+--------------------------------------------------------------------------------
+3.1. Support technique
+
+UBISOFT à votre service…
+
+LE SERVICE CLIENTS :
+Vous éprouvez des difficultés à installer ou à lancer un logiciel de notre gamme ? 
+Vous rencontrez un problème avec votre compte sur Ubi.com ? 
+Une seule adresse :
+http://support.ubi.com/
+Vous y trouverez :
+Une foire aux questions (FAQ) régulièrement mise à jour, aidant à résoudre vos 
+problèmes en quelques clics.
+-	Les dernières mises à jour (patches) de nos jeux en version téléchargeable.
+-	Les forums de nos jeux vous permettant d’échanger avec d’autres joueurs.
+-	Une interface permettant de soumettre votre question à nos techniciens.
+-	Une messagerie personnelle pour suivre la résolution de vos problèmes.
+Vous pouvez également contacter nos techniciens au 04.88.71.1000 (coût d’un appel 
+local) du lundi au vendredi 10h – 20h. 
+
+LE SERVICE ASTUCES / SOLUCES :
+Vous êtes perdu dans un jeu ? Vous avez besoin d’aide pour franchir un obstacle ? 
+Vous recherchez des astuces pour progresser ?
+Un seul numéro :
+0.892.70.50.30 (0,34€/min)
+Fax : 04.42.16.52.99
+Vous y trouverez :
+-	Toutes les astuces et soluces sur l’ensemble de notre catalogue.
+-	Un serveur vocal régulièrement mis à jour et disponible 24h/24 7j/7.
+-	La possibilité de parler en direct à nos spécialistes du lundi au vendredi 
+        9h30-13h, 14h00-19h00.
+
+--------------------------------------------------------------------------------
+3.2. Sites Web utiles
+
+Site officiel d'Assassin's Creed II :
+	http://www.assassinscreed2.com
+
+Téléchargement de DirectX :
+    	http://www.microsoft.com/windows/directx
+
+Derniers pilotes ATI :
+	http://www.ati.com/support/driver.html
+
+Derniers pilotes NVIDIA :
+	http://www.nvidia.com/content/drivers/drivers.asp
+
+Derniers pilotes Creative Labs :
+	http://us.creative.com/support/downloads/
+
+Derniers pilotes Intel :
+	http://downloadcenter.intel.com/
+	
+Derniers pilotes AMD :
+	http://www.amd.com/
+
+Derniers pilotes Saitek :
+	http://www.saitek.com/

@@ -1,0 +1,245 @@
+################################################################################
+
+Ubisoft Entertainment
+Assassin's Creed II
+LESSMIJ.TXT 1.00
+
+################################################################################
+
+Inhoudsopgave
+
+################################################################################
+
+1. Instructies voor installatie
+1.1. Systeemvereisten
+1.2. Taalkeuze
+2. Bekende problemen
+2.1. Grafische stuurprogramma's (drivers) installeren
+2.2. Stuurprogramma's (drivers) voor geluid installeren
+2.3. DirectX installeren
+2.4. Bugs en opmerkingen
+3. Belangrijke websites, contactinformatie en technische ondersteuning
+3.1. Technische ondersteuning
+3.2. Belangrijke websites
+
+################################################################################
+
+1. Instructies voor installatie
+
+################################################################################
+
+1.1. Systeemvereisten
+
+Minimale configuratie:
+ONDERSTEUNDE BESTURINGSSYSTEMEN: Windows® XP (32-64 bit) /Windows Vista®(32-64 bit) /Windows 7® (32-64 bit) 
+Processor: Intel Core® 2 Duo 1.8 GHZ of AMD Athlon X2 64 2.4GHZ
+RAM: 1.5 GB  Windows® XP / 2 GB Windows Vista® - Windows 7®
+Videokaart: geschikt voor 256 MB DirectX®  9.0 met Shader Model 3.0 of beter (zie de lijst met ondersteunde programma's)
+Geluidskaart: geschikt voor DirectX 9.0
+DirectX-versie: DirectX 9.0 
+Dvd-rom: dvd-romspeler geschikt voor dubbelzijdige dvd-roms
+Vrije harde-schijfruimte: 8 GB
+Ondersteunde randapparatuur: toetsenbord, muis, controller (optioneel)
+
+* Dit product ondersteunt Windows® 98/ME/2000/NT niet
+
+
+Aanbevolen configuratie:
+Processor: Intel Core® 2 Duo E6700 2.6 GHz of AMD Athlon 64 X2 6000+, of beter
+Videokaart: GeForce® 8800 GT of ATI Radeon® HD 4700, of beter
+Geluid: 5.1 geluidskaart
+Randapparatuur: toetsenbord, muis, joystick (optioneel) (Xbox 360® controller voor Windows aanbevolen)
+ 
+
+Ondersteunde videokaarten ten tijde van de releasedatum:
+ATI® RADEON®  X1950, HD 2000/3000/4000/5000-series
+NVIDIA GeForce® 7/8/9/100/200-series
+
+  Het is mogelijk dat de laptopversies van deze kaarten ook werken, maar ze worden NIET ondersteund. Deze chipsets
+  zijn de enige waarmee deze game gespeeld kan worden. Voor de meest recente systeemvereisten ga je naar
+  de FAQ (veelgestelde vragen) voor deze game op onze ondersteuningswebsite http://support.ubi.com.
+
+
+* Je hebt een permanente internetverbinding nodig om de game te spelen.
+
+--------------------------------------------------------------------------------
+1.2. Taalkeuze
+
+De taal die bij het begin van de installatie wordt gekozen wordt ook ingame gebruikt.
+Om een andere taal te kiezen moet je de game verwijderen en opnieuw installeren.
+
+
+################################################################################
+
+2. Bekende problemen
+
+################################################################################
+
+2.1. Grafische stuurprogramma's (drivers) installeren
+
+Als je last hebt van grafische problemen, zorg er dan voor dat je de allernieuwste
+beschikbare stuurprogramma's (drivers) voor beeld en moederbord geïnstalleerd hebt
+voor je videokaart. Onder aan dit document vind je links met de populairste fabrikanten
+van videokaarten en moederborden.
+
+--------------------------------------------------------------------------------
+2.2. Stuurprogramma's (drivers) voor geluid installeren
+
+Als je last hebt van geluidsproblemen, zorg er dan voor dat je de allernieuwste
+stuurprogramma's (drivers) voor geluid hebt geïnstalleerd voor je geluidskaart.
+Onder aan dit document vind je links met de populairste fabrikanten van geluidskaarten.
+
+--------------------------------------------------------------------------------
+2.3. DirectX installeren
+
+Om Assassin's Creed II goed te kunnen spelen, heb je DirectX runtime DLL-bestanden
+nodig van augustus 2009 of later. De laatste versie van DirectX kun je downloaden
+op de volgende website:
+http://www.microsoft.com/windows/directx
+
+ 
+Je kunt DirectX ook vinden op de installatie-disk in de map Support\DirectX. 
+ 
+Als er een foutmelding verschijnt over ontbrekende DLL-bestanden, kun je het
+probleem corrigeren door DirectX opnieuw te installeren van de installatiedisk.
+
+--------------------------------------------------------------------------------
+2.4. Bugs en opmerkingen
+
+* Het wordt _niet_ aangeraden om de game te installeren in de Windows-map (gewoonlijk
+  C:\Windows), een submap van de Windows-map, of direct in de map van de schijf zelf (gewoonlijk C:\).
+
+* We raden je aan alle andere programma's af te sluiten voordat je de game installeert,
+  om het risico van softwareconflicten te beperken.
+
+* Als je de Saitek P2600 Rumble Force Pad gebruikt, raden we je aan de
+  stuurprogramma's (drivers) van Saitek te gebruiken (zie paragraaf 3.2) in plaats
+  van de stuurprogramma's die geleverd worden bij Windows. Als je toch Windows-stuurprogramma's
+  gebruikt, kan het zijn dat je de y-as (omhoog/omlaag) opnieuw moet instellen via het
+  optiemenu in het spel om normaal te kunnen spelen.
+
+* Als je Realtek High Definition Audio, Soundmax HD Audio, of nForce Audio gebruikt,
+  kunnen er geluidsproblemen optreden. Om deze te vermijden, ga je naar
+  Startmenu>Configuratiescherm>Geluiden en audioapparaten>tab Audio>Geavanceerd>tab Prestaties
+  en zet je de schuifbalk van de Hardwareversnelling op 'Geen'.
+
+* Bij gebruik van een AMD dual-core processor, kunnen de ingame menu-opties flikkeren.
+  Om dit probleem te vermijden, kun je de AMD Dual-Core Optimizer installeren vanaf de
+  AMD website (zie paragraaf 3.2).
+
+* Als er grafische problemen optreden, zorg er dan voor dat het configuratiescherm van je
+  grafische stuurprogramma (driver) _niet_ is ingesteld om programmainstellingen te overschrijven.
+
+* De trilfunctie wordt alleen ondersteund door de Xbox 360 controller.
+
+################################################################################
+
+3. Belangrijke websites, contactinformatie en technische ondersteuning
+
+################################################################################
+
+--------------------------------------------------------------------------------
+3.1. Technische ondersteuning
+
+Neem voordat je contact opneemt met de afdeling technische ondersteuning van Ubisoft
+de handleiding en dit LeesMij-bestand door (te vinden op de dvd). Zorg er ook altijd voor 
+dat je computer voldoet aan de systeemvereisten. Onze ondersteuningsmedewerkers kunnen 
+geen hulp bieden aan klanten met een computer die niet aan deze vereisten voldoet. Of raadpleeg
+onze FAQ of de ondersteuningsdatabase op onze website: http://support.ubi.com.
+Hier vind je de laatste informatie sinds de release van de game.
+
+Zorg er ook altijd voor dat je computer voldoet aan de systeemvereisten. Onze
+ondersteuningsmedewerkers kunnen geen hulp bieden aan klanten met een computer
+die niet aan deze vereisten voldoet.
+
+Als je contact opneemt met de afdeling technische ondersteuning, zorg er dan voor
+dat je de volgende informatie tot je beschikking hebt tijdens het telefoongesprek:
+
+-Volledige titel van het product (inclusief het versienummer)
+-De exacte foutmelding (indien van toepassing) en een korte beschrijving van het probleem
+-Processorsnelheid en fabrikant
+-Hoeveelheid RAM
+-Besturingssysteem
+-Het soort videokaart dat je gebruikt en de hoeveelheid RAM van de kaart
+-Model en snelheid van je cd-rom- of dvd-romspeler
+-Het type geluidskaart dat je gebruikt
+
+Ondersteuning via internet
+Dit is de beste manier om oplossingen voor veelvoorkomende problemen te vinden. Onze FAQ is 24 uur per dag
+en zeven dagen per week beschikbaar. Hier vind je de nieuwste informatie op het gebied
+van technische ondersteuning, inclusief de patches voor al onze games.
+De ondersteuningspagina's worden dagelijks bijgewerkt, dus kijk bij problemen altijd eerst
+op de volgende site voor een oplossing:
+http://support.ubi.com/.
+
+
+Contact via webmail
+Via de standaardmail bieden we geen ondersteuning meer, maar wel via de webmail. Doordat de vragen
+rechtstreeks via onze website binnenkomen, kunnen we je sneller van dienst zijn dan via de standaardmail. 
+Log in op http://support.ubi.com/ om een webmail te versturen.
+
+Vanaf deze site heb je toegang tot het Ubisoft Entertainment Solution
+Center, waar je de lijst met veelgestelde vragen (FAQ) kunt bekijken en
+kunt zoeken in onze database met bekende problemen en oplossingen.
+Via de dienst Ask A Question bieden onze medewerkers snelle en persoonlijke hulp. Meestal worden webmails
+binnen twee dagen beantwoord.
+
+Contact per telefoon
+
+Je kunt ons ook per telefoon bereiken, via het nummer 0909 8247638. Dit nummer
+is alleen bestemd voor technische ondersteuning. Als je belt met de technische ondersteuning, zorg er dan voor
+dat je achter je computer zit.
+Onze technische medewerkers zijn elke maandag tot en met vrijdag beschikbaar van 03.00 uur tot 15.00 uur (behalve tijdens vakanties).
+We brengen geen kosten in rekening voor technische ondersteuning, maar denk er wel aan dat de
+normale kosten voor langeafstandsgesprekken van toepassing zijn. Om hoge kosten te vermijden,
+of voor direct contact met een technische medewerker buiten de genoemde tijden, kun je onze FAQ raadplegen of een webmail versturen.
+
+Pour du service en français, veuillez contacter: (866) 824 6515.
+Para la ayuda en español llame: (866) 824-6515.
+
+
+
+Contact via brief
+
+Als het niet mogelijk is om op een andere manier contact op te nemen, kun je schrijven naar het volgende adres:
+
+Ubisoft B.V. 
+Rijnzathe 7a 
+3454 PV De Meern
+
+
+Teruggavenbeleid
+
+Stuur nooit een game rechtstreeks terug naar Ubisoft zonder eerst contact op te nemen met de technische ondersteuning.
+Volgens ons teruggavenbeleid kun je de game alleen terugsturen naar de winkel of website waar je het product hebt gekocht.
+Als de dvd beschadigd of bekrast is, raadpleeg dan de FAQ van de betreffende game voor de meest recente versie van het 
+teruggavenbeleid en de bijbehorende kosten. Wij accepteren geen teruggave of ruilingen zonder voorafgaande toestemming
+en een RMA-nummer (Returns Materials Authorization) van een vertegenwoordiger van de technische ondersteuning.
+
+
+--------------------------------------------------------------------------------
+3.2. Belangrijke websites
+
+De officiële Assassin's Creed II-website:
+	http://www.assassinscreed2.com
+
+DirectX eindgebruiker Runtime:
+    	http://www.microsoft.com/windows/directx
+
+De nieuwste ATI-stuurprogramma's (drivers):
+	http://www.ati.com/support/driver.html
+
+De nieuwste NVIDIA-stuurprogramma's:
+	http://www.nvidia.com/content/drivers/drivers.asp
+
+De nieuwste Creative Labs-stuurprogramma's:
+	http://us.creative.com/support/downloads/
+
+De nieuwste Intel-stuurprogramma's:
+	http://downloadcenter.intel.com/
+	
+De nieuwste AMD-stuurprogramma's:
+	http://www.amd.com/
+	
+De nieuwste Saitek-stuurprogramma's:
+	http://www.saitek.com/

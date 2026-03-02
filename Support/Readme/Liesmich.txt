@@ -1,0 +1,232 @@
+################################################################################
+
+Ubisoft Entertainment
+Assassin's Creed II
+LIESMICH.TXT 1.00
+
+################################################################################
+
+Inhaltsverzeichnis
+
+################################################################################
+
+1. Installationsanweisungen
+1.1. Systemanforderungen
+1.2. Sprachauswahl
+2. Bekannte Probleme
+2.1. Installation der Grafik- und Mainboardtreiber
+2.2. Installation der Soundtreiber
+2.3. Installation von DirectX
+2.4. Bugs und Kommentare
+3. Wichtige Websites, Kontakt-Informationen und Technischer Kundendienst
+3.1. Ubisoft-Kundendienst
+3.2. Wichtige Websites
+
+################################################################################
+
+1. Installationsanweisungen
+
+################################################################################
+
+1.1. Systemanforderungen
+
+Minimal-Konfiguration:
+UNTERSTÜTZTES BS: Windows® XP (32-64 bits) /Windows Vista®(32-64 bits) /Windows 7® (32-64 bits) 
+Prozessor: Intel Core® 2 Duo 1,8 GHZ oder AMD Athlon X2 64 2,4GHZ
+RAM: 1,5 GB  Windows® XP / 2 GB Windows Vista® - Windows 7®
+Grafikkarte: 256 MB DirectX®  9.0–kompatible Karte mit Shader Model 3.0 oder höher (siehe Liste
+unterstützter Karten)
+Soundkarte: DirectX 9.0 –kompatible Soundkarte 
+DirectX Version: DirectX 9.0 
+DVD-ROM: Dual Layer DVD-ROM Laufwerk
+Festplattenspeicher: 8 GB
+Unterstützte Peripheriegeräte: Tastatur, Maus, optionaler Controller 
+
+* Dieses Produkt unterstützt nicht: Windows 98/ME/2000/NT
+
+
+Empfohlene Konfiguration:
+Prozessor: Intel Core® 2 Duo E6700 2,6 GHz oder AMD Athlon 64 X2 6000+ oder besser
+Grafikkarte: GeForce® 8800 GT oder ATI Radeon® HD 4700  oder besser
+Sound: 5.1 Soundkarte
+Peripheriegeräte: Tastatur, Maus, optionaler Joystick (Xbox 360® Controller für Windows wird empfohlen)
+ 
+
+Unterstützte Grafikkarten zum Zeitpunkt der Veröffentlichung:
+ATI® RADEON®  X1950, HD 2000/3000/4000/5000 Serie
+NVIDIA GeForce® 7/8/9/100/200 Serie
+
+  Die Laptop-Versionen dieser Karten können funktionieren, werden aber NICHT
+  unterstützt. Diese Chipsätze sind die einzigen, mit denen das Spiel funktioniert.
+  Für die aktuellsten Systemanforderungen besuchen Sie bitte die FAQ (häufig
+  gestellte Fragen) auf unserer Support-Webseite unter: http://support.ubi.de.
+
+
+* Für dieses Spiel wird eine permanente Internetverbindnug benötigt.
+
+--------------------------------------------------------------------------------
+1.2. Sprachauswahl
+
+Die zu Beginn der Installation gewählte Sprache wird im Spiel verwendet. Um die
+Sprache zu ändern, müssen Sie das Spiel erst deinstallieren und dann erneut
+installieren.
+
+
+################################################################################
+
+2. Bekannte Probleme
+
+################################################################################
+
+2.1. Installation der Grafik- und Mainboardtreiber
+
+Wenn Sie Grafik-Probleme feststellen sollten, dann installieren Sie bitte die
+aktuellsten verfügbaren Treiber für Ihre Grafikkarte und das Mainboard. 
+Links zu den bekanntesten Herstellern von Grafikkarten und Mainboards 
+finden Sie am Ende dieses Dokuments.
+
+--------------------------------------------------------------------------------
+2.2. Installation der Soundtreiber 
+
+Wenn Sie Sound-Probleme feststellen sollten, dann installieren Sie bitte die
+aktuellsten verfügbaren Treiber für Ihre Soundkarte. Links zu den bekanntesten
+Herstellern von Soundkarten finden Sie am Ende dieses Dokuments.
+
+--------------------------------------------------------------------------------
+2.3. Installation von DirectX 
+
+Assassin's Creed II benötigt die DirectX Runtime-DLLs von August 2009 oder später,
+um fehlerfrei zu laufen. Um die neueste Version von DirectX herunterzuladen,
+besuchen Sie bitte:
+ 
+http://www.microsoft.com/windows/directx
+ 
+DirectX ist außerdem auf der Installations-Disk im Verzeichnis Support\DirectX
+enthalten.
+ 
+Wenn Sie eine Fehlermeldung wegen einer fehlenden DLL erhalten, installieren Sie
+DirectX von der Installations-Disk neu, um das Problem zu beheben.
+
+--------------------------------------------------------------------------------
+2.4. Bugs und Kommentare
+
+* Es ist _nicht_ ratsam, das Spiel in das Windows-Verzeichnis (normalerweise
+  C:\Windows), ein Unterverzeichnis des Windows-Verzeichnisses, oder das
+  Stammverzeichnis des Systemlaufwerks (normalerweise C:\) zu installieren.
+
+* Es wird empfohlen, alle anderen laufenden Programme zu beenden, bevor Sie das
+  Spiel installieren, um die Gefahr für Softwarekonflikte zu verringern.
+
+* Wenn Sie ein Saitek P2600 Rumble Force Pad benutzen, wird empfohlen, die
+  Treiber von Saitek (siehe Abschnitt 3.2) zu benutzen und nicht die Treiber,
+  die mit Windows mitgeliefert werden. Mit den Windows-Treibern müssen Sie
+  möglicherweise die Auf/Ab-Achse des rechten Sticks im Optionsmenü des Spiels
+  neu konfigurieren, damit sie fehlerfrei funktioniert.
+
+* Wenn Sie Realtek High Definition Audio, Soundmax HD Audio oder nForce Audio
+  benutzen, könnte es zu Anomalien bei der Soundwiedergabe kommen. Um dieses
+  Problem zu umgehen, stellen Sie den Schieberegler für die Hardwarebeschleunigung
+  in der Windows-Systemsteuerung -> Sounds und Audiogeräte -> Audio -> Erweitert
+  -> Systemleistung auf 'Basic'.
+
+* Wenn Sie einen AMD Dual Core Prozessor benutzen, könnten die Einträge im
+  Spielmenü flackern. Um dieses Problem zu umgehen installieren Sie bitte den AMD
+  Dual-Core Optimizer, den Sie auf der AMD-Webseite herunterladen können (siehe
+  Abschnitt 3.2).
+
+* Wenn Sie Grafikfehler feststellen, stellen Sie bitte sicher, dass die Steuerung
+  Ihres Grafiktreibers nicht so eingestellt ist, dass sie die Einstellungen von
+  Anwendungen ("application settings") ignoriert.
+
+* Die Vibrationsfunktion steht nur zur Verfügung, wenn Sie einen Xbox 360
+  Controller benutzen.
+
+################################################################################
+
+3. Wichtige Websites, Kontakt-Informationen und Technischer Kundendienst
+
+################################################################################
+
+--------------------------------------------------------------------------------
+
+3.1. Ubisoft-Kundendienst
+
+Erste Hilfe bei Problemen!
+
+Überprüfen Sie, ob Ihr PC die Systemvoraussetzungen erfüllt und aktualisieren Sie ggf. Ihre Systemtreiber!
+Am einfachsten ist dies mit unserem kostenlosen Tool „SAN“ möglich, das Sie auf folgender Internetseite herunterladen können: 
+
+http://support.ubisoft.de
+
+Laden Sie das neuste Update (Patch) für Ihr Spiel herunter und installieren Sie es.
+Alle verfügbaren Patches zu unseren Spiele finden Sie unter:
+
+http://support.ubisoft.de
+
+Suchen Sie im Solution Center (der Support-Datenbank) nach Ihrer Frage.
+Möglicherweise gibt es dort schon eine Antwort: http://support.ubisoft.de
+Hier veröffentlichen wir in Form von FAQs (Frequently Asked Questions = Häufig gestellte Fragen) 
+alle bekannten Probleme und entsprechende Lösungsvorschläge sowie viele nützliche Informationen (z.B. Systemvoraussetzungen, Patches usw.) zu unseren Spielen.
+
+Das Problem / die Frage besteht weiterhin? Wir sind Ihnen gerne behilflich! 
+
+Kostenlose Kontaktmöglichkeiten
+
+Support-Anfrage über das Solution Center:
+http://support.ubisoft.de
+Folgen Sie den Links ins Solution Center und klicken Sie auf „Fragen Sie uns“.
+Hier steht Ihnen auch Mo. – Fr., 9:00 – 19:00 Uhr unser Live-Chat zu Verfügung.
+
+Die Ubisoft-Foren:
+http://forums-de.ubi.com/eve/forums?a=frm&s=59010161&f=3511071428
+
+Wir freuen uns auf Ihren Besuch 
+
+Ihr Ubisoft-Team
+
+
+
+- Ubi.com Account -
+
+Sie können Ihren Ubi.com Account spielübergreifend verwenden. Wenn Sie bereits einen Account haben, können Sie mit 
+diesem online spielen. Wenn Sie einen neuen Account anlegen, beachten Sie, dass dieser für alle ubi.com Bereiche 
+(Forum, Support, Shop etc.) verwendet werden kann. 
+
+ANMERKUNG: Sobald das Spiel mit einem Ubisoft-Konto verknüpft bzw. registriert wurde,
+ist dieses permanent an dieses Nutzerkonto gebunden.
+
+Hier können Sie Ihren Benutzernamen und Ihr Passwort eintragen. Sie sollten aber folgende Punkte beachten:
+
+Achten Sie darauf, dass nur Sie Ihren Benutzernamen und Ihr Passwort kennen, um Missbrauch vorzubeugen.
+
+Benutzername:
+Passwort:
+
+
+
+--------------------------------------------------------------------------------
+3.2. Wichtige Websites
+
+Assassin's Creed II offizielle Website:
+	http://www.assassinscreed2.com
+
+DirectX Endverbraucher Runtime:
+    	http://www.microsoft.com/windows/directx
+
+Neueste ATI Treiber:
+	http://www.ati.com/support/driver.html
+
+Neueste NVIDIA Treiber:
+	http://www.nvidia.com/content/drivers/drivers.asp
+
+Neueste Creative Labs Treiber:
+	http://us.creative.com/support/downloads/
+
+Neueste Intel Treiber:
+	http://downloadcenter.intel.com/
+	
+Neueste AMD Treiber:
+	http://www.amd.com/
+
+Neueste Saitek Treiber:
+	http://www.saitek.com/

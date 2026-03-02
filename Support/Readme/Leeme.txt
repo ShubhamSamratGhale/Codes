@@ -1,0 +1,230 @@
+################################################################################
+
+Ubisoft Entertainment
+Assassin's Creed II
+LEEME.TXT 1.00
+
+################################################################################
+
+Índice
+
+################################################################################
+
+1. Instrucciones de instalación
+1.1. Requisitos del sistema
+1.2. Selección de idioma
+2. Problemas conocidos
+2.1. Instalación de controladores gráficos y de la placa base
+2.2. Instalación de controladores de sonido
+2.3. Instalación de DirectX
+2.4. Errores y comentarios
+3. Webs importantes, información de contacto y soporte técnico
+3.1. Servicio de atención técnica
+3.2. Webs importantes
+
+################################################################################
+
+1. Instrucciones de instalación
+
+################################################################################
+
+1.1. Requisitos del sistema
+
+Configuración mínima:
+  Sistemas operativos soportados: Windows® XP (32-64 bits), Windows Vista® 
+                                  (32-64 bits), Windows 7® (32-64 bits)
+  Procesador: Intel Core® 2 Duo de 1,8 GHz o AMD Athlon X2 64 de 2,4 GHz
+  Memoria RAM: 1,5 GB con Windows XP o 2 GB con Windows Vista® o Windows 7®
+  Tarjeta de vídeo: Compatible DirectX® 9.0 con 256 MB de memoria, y Shader
+                    Model 3.0 o superior (ver lista de tarjetas soportadas)
+  Tarjeta de sonido: Compatible DirectX 9.0
+  Versión de DirectX: DirectX 9.0 
+  DVD-ROM: Lector de DVD-ROM de doble capa
+  Espacio en disco: 8 GB
+  Periféricos soportados: Teclado, ratón, mando opcional
+
+* Este producto no soporta Windows® 98/ME/2000/NT
+
+Configuración recomendada:
+  Procesador: Intel Core® 2 Duo E6700 de 2,6 GHz o AMD Athlon 64 X2 6000+ o 
+              superior
+  Tarjeta de vídeo: GeForce® 8800 GT o ATI Radeon® HD 4700 o superior
+  Tarjeta de sonido: Tarjeta con sonido 5.1
+  Periféricos: Teclado, ratón, joystick opcional (se recomienda usar el mando 
+               Xbox 360® para Windows)
+
+Lista de tarjetas soportadas en el momento del lanzamiento:
+ATI® RADEON® series X1950, HD 2000/3000/4000/5000
+NVIDIA GeForce® series 7/8/9/100/200
+
+Las versiones para portátiles de estas tarjetas puede que funcionen, pero NO
+están oficialmente soportadas. Estos chipsets son los únicos que funcionan bien
+con el juego. Para obtener la lista más actualizada de los requisitos mínimos,
+por favor visita la página de preguntas y respuestas, la sección de FAQ, en
+nuestro sitio web de soporte: http://support.ubi.com.
+
+* Se necesita una conexión a Internet permanente para jugar a este juego
+
+--------------------------------------------------------------------------------
+1.2. Selección de idioma
+
+El idioma seleccionado al principio de la instalación es el que se utilizará en
+el juego. Para cambiar el idioma, desinstala y vuelve a instalar el juego.
+
+
+################################################################################
+
+2. Problemas conocidos
+
+################################################################################
+
+2.1. Instalación de controladores gráficos y de la placa base
+
+Si tienes cualquier problema de tipo gráfico, instala los controladores más 
+recientes para tu tarjeta de vídeo y tu placa base. En la última parte de este 
+documento encontrarás la dirección web de los principales fabricantes de tarjetas.
+
+--------------------------------------------------------------------------------
+2.2. Instalación de controladores de sonido
+
+Si tienes cualquier problema con el sonido, instala los controladores más 
+recientes para tu tarjeta de sonido. En la última parte de este documento 
+encontrarás la dirección web de los principales fabricantes de tarjetas.
+
+--------------------------------------------------------------------------------
+2.3. Instalación de DirectX
+
+Assassin's Creed II necesita las DLLs de las rutinas DirectX de agosto de 2009
+o más avanzadas para funcionar correctamente. Si necesitas la última versión
+de DirectX, visita la página web:
+ 
+http://www.microsoft.com/windows/directx
+ 
+Las librerías DirectX están incluidas en el disco de instalación del juego,
+dentro de la carpeta Support\DirectX.
+ 
+Si tienes un mensaje de error sobre una DLL que falta, reinstala las rutinas
+DirectX usando el disco de instalación. Eso debería corregir el problema.
+
+--------------------------------------------------------------------------------
+2.4. Errores y comentarios
+
+* No es recomendable instalar el juego en la carpeta de Windows (generalmente 
+  está en C:\Windows), ni en una subcarpeta de Windows, ni en la carpeta raíz 
+  del disco de sistema (generalmente, C:\).
+
+* Es aconsejable cerrar todas las aplicaciones que tengas en marcha, antes de
+  instalar el juego, para reducir el riesgo de conflictos de software.
+
+* Si utilizas el mando Saitek P2600 Rumble Force Pad te recomendamos usar los
+  controladores proporcionados por Saitek (consulta la sección 3.2), en lugar
+  de los controladores que vienen con el sistema operativo Windows. Con estos
+  últimos es posible que tengas que reasignar el eje vertical (arriba/abajo) al
+  stick derecho, a través del menú de opciones del juego, para que funcione
+  correctamente.
+
+* Si usas los dispositivos Realtek High Definition Audio, Soundmax HD Audio, o 
+  nForce Audio, es posible que experimentes alguna anomalía en el sonido. Para
+  solucionar el problema, reduce la aceleración de hardware hasta el nivel
+  básico; ve al Panel de Control de Windows, entra en Dispositivos de sonido y 
+  audio y, dentro de la pestaña Audio ve a las opciones Avanzadas para acceder
+  a la pestaña de Rendimiento.
+
+* Si usas un procesador de doble núcleo de AMD puede que percibas algún problema
+  de parpadeo en algunos elementos de los menús. Para solucionarlo, instala el
+  programa de optimización AMD Dual-Core Optimizer que encontrarás en la página
+  web de AMD (consulta la sección 3.2).
+
+* Si el juego presenta algún problema de corrupción de gráficos, asegúrate de
+  que tu controlador gráfico no está configurado para "saltarse" la configuración
+  de las aplicaciones. 
+
+* El soporte de la función de vibración sólo está disponible con el mando
+  Xbox 360.
+
+
+################################################################################
+
+3. Webs importantes, información de contacto y soporte técnico
+
+################################################################################
+
+--------------------------------------------------------------------------------
+3.1. Servicio de atención técnica
+
+Si tienes dificultades jugando a algún juego de Ubisoft, ponte en contacto con el
+Centro de Soluciones de Ubisoft en línea mediante el sitio Web http://soporte.ubisoft.es.
+
+También puedes ponerte en contacto con nuestro equipo de soporte técnico por teléfono
+llamando al número 902.117.803 (tarifa nacional) de 12am a 8pm de lunes a viernes
+(excluyendo fines de semana y días festivos).
+
+Juegos de PC:
+Si tienes dificultades ejecutando el juego en tu ordenador, por favor ponte primero en
+contacto con nuestro equipo de soporte técnico. Antes de llamar, por favor asegúrate de
+encontrarte delante del ordenador con el juego instalado. De esta forma podremos
+solucionar el problema más fácilmente.
+
+Si contactas con nosotros por correo electrónico, por favor adjunta al correo el archivo
+de diagnóstico Dxdiag del ordenador. Este archivo nos proporcionará la información
+necesaria sobre las características de tu ordenador.
+
+Si el problema consiste en que la ventana del juego desaparece y aparece el escritorio,
+en que el juego se congela, o en que los gráficos aparecen distorsionados o aparecen
+mensajes de error, necesitaremos consultar el archivo de diagnóstico del sistema
+operativo para comprobar si las características de tu sistema operativo son inferiores
+a las especificaciones mínimas requeridas por el juego.
+ 
+Para localizar el archivo Dxdiag:
+* Windows XP: Para abrir la Herramienta de diagnóstico de DirectX haz clic en
+  Inicio > Ejecutar, escribe "dxdiag" en el cuadro de texto y haz clic en Aceptar.
+  A continuación guarda la información en un archivo y adjúntalo al correo electrónico.
+* Windows Vista: Haz clic en Inicio y escribe "dxdiag" en el cuadro de texto de
+  búsqueda para localizar el archivo. Guarda la información en un archivo en una
+  ubicación apropiada del ordenador y adjúntalo al correo electrónico.
+
+Si necesitas asistencia adicional, por favor ponte en contacto por teléfono con nuestro
+equipo de soporte técnico; uno de nuestros agentes estará complacido en atenderte.
+
+Juego defectuoso: 
+Si piensas que tu juego está defectuoso, por favor ponte en contacto con nuestro equipo de
+soporte técnico antes de devolver el producto a la tienda. Es posible que las
+características de tu sistema operativo sean inferiores a las especificaciones mínimas
+requeridas por el juego.
+
+Juego dañado:
+Si tu juego estaba dañado cuando lo compraste, por favor devuélvelo a la tienda con el
+recibo de compra para obtener información sobre cómo reemplazarlo.
+
+Si el recibo de compra ha expirado pero el juego aún se encuentra dentro del período de
+90 días de garantía, por favor ponte en contacto con el equipo de soporte técnico de
+Ubisoft para obtener más información. Por favor, ten en cuenta que el equipo de soporte
+técnico no proporciona trucos ni guías; esta información puede encontrarse gratuitamente
+por Internet.
+
+--------------------------------------------------------------------------------
+3.2. Webs importantes
+
+Web oficial de Assassin's Creed II:
+        http://www.assassinscreed2.com
+
+Rutinas DirectX 9:
+        http://www.microsoft.com/downloads
+
+Controladores ATI:
+	http://ati.amd.com/support/driver.html
+
+Controladores NVIDIA:
+	http://www.nvidia.com/content/drivers/drivers.asp
+
+Controladores Creative Labs:
+	http://es.europe.creative.com/
+
+Controladores Intel:
+	http://downloadcenter.intel.com/
+	
+Controladores AMD:	
+	http://www.amd.com/us-en/Processors/TechnicalResources/0,,30_182_871_2336,00.html
+
+Controladores Saitek:
+	http://www.saitek.com/

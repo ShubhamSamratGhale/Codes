@@ -1,0 +1,257 @@
+################################################################################
+
+Ubisoft Entertainment
+Assassin's Creed II
+VIKTIG.TXT 1.00
+
+################################################################################
+
+Innhold
+
+################################################################################
+
+1. Installasjonsinstruksjoner
+1.1. Systemkrav
+1.2. Valg av språk
+2. Kjente problemer
+2.1. Installere skjerm- og hovedkortdrivere
+2.2. Installere lyddrivere
+2.3. Installere DirectX
+2.4. Feil og kommentarer
+3. Viktige nettsteder, kontaktinformasjon og kundestøtte
+3.1. Kundestøtte
+3.2. Viktige nettsteder
+
+################################################################################
+
+1. Installasjonsinstruksjoner
+
+################################################################################
+
+1.1. Systemkrav
+
+Minimumskonfigurasjon:
+STØTTEDE OPERATIVSYSTEMER: Windows® XP (32-64 biter) /Windows Vista®(32-64 biter) /Windows 7® (32-64 biter) 
+Prosessor: Intel Core® 2 Duo 1,8 GHZ eller AMD Athlon X2 64 2,4 GHZ
+RAM: 1,5 GB  Windows® XP / 2 GB Windows Vista® - Windows 7®
+Skjermkort: 256 MB DirectX®  9.0–kompatibelt kort med Shader Model 3.0 eller høyere (se støttelisten)
+Lydkort: DirectX 9.0–kompatibelt lydkort 
+DirectX-versjon: DirectX 9.0 
+DVD-ROM: Dobbeltlags DVD-ROM-stasjon
+Harddiskplass: 8 GB
+Støttet eksternt utstyr: Tastatur, mus, valgfri kontroller
+
+* Dette produktet støtter ikke Windows® 98/ME/2000/NT
+
+
+Anbefalt konfigurasjon:
+Prosessor: Intel Core® 2 Duo E6700 2,6 GHz eller AMD Athlon 64 X2 6000+ eller bedre
+Skjermkort: GeForce® 8800 GT eller ATI Radeon® HD 4700 eller bedre
+Lyd: 5.1 lydkort
+Eksternt utstyr: Tastatur, mus, valgfri joystick (Xbox 360® Håndkontroller for Windows anbefales)
+
+
+Støttede skjermkort på utgivelsestidspunktet:
+ATI® RADEON® X1950, HD 2000/3000/4000/5000-serien
+NVIDIA GeForce® 7/8/9/100/200-serien
+
+  Versjoner for bærbare PC-er av disse kortene kan fungere, men støttes IKKE. Disse brikkesettene
+  er de eneste som fungerer med dette spillet. Du finner en liste over oppdaterte
+  minimumskrav under Vanlige spørsmål for dette spillet på våre kundestøttenettsider:
+  http://support.ubi.com.
+
+
+* Du må ha en permanent internettforbindelse for å spille dette spillet.
+
+--------------------------------------------------------------------------------
+1.2. Valg av språk
+
+Språket du velger i starten av installasjonen, er språket som vil bli
+brukt i spillet. Hvis du vil endre språket, må du avinstallere spillet og installere det på nytt.
+
+
+################################################################################
+
+2. Kjente problemer
+
+################################################################################
+
+2.1. Installere skjerm- og hovedkortdrivere
+
+Hvis du opplever problemer med grafikken, må du installere de nyeste skjerm- og
+hovedkortdriverne som er tilgjengelig for skjermkortet ditt. Du finner lenker til de mest populære
+produsentene av skjermkort og hovedkort nederst i dette
+dokumentet.
+
+--------------------------------------------------------------------------------
+2.2. Installere lyddrivere
+
+Hvis du opplever problemer med lyden, må du installere de nyeste lyddriverne
+som er tilgjengelig for lydkortet ditt. Du finner lenker til de mest populære
+lydkortprodusentene nederst i dette dokumentet.
+
+--------------------------------------------------------------------------------
+2.3. Installere DirectX
+
+Assassin’s Creed II krever kjøretids-DLL-filer for DirectX fra august 2009 eller senere
+for å kunne kjøre ordentlig. Du kan laste ned den nyeste versjonen av DirectX på:
+http://www.microsoft.com/windows/directx
+
+
+DirectX er også inkludert på installasjonsplaten under mappen Support\DirectX. 
+
+Hvis du får en feilmelding om manglende DLL-filer, må du installere DirectX på nytt fra
+installasjonsplaten.
+
+--------------------------------------------------------------------------------
+2.4. Feil og kommentarer
+
+* Det anbefales IKKE å installere spillet i Windows-mappen (vanligvis
+  C:\Windows), en undermappe i Windows-mappen eller på roten
+  (vanligvis C:\).
+
+* Det anbefales at du lukker alle andre aktive programmer før du installerer
+  spillet, slik at risikoen for programvarekonflikter reduseres.
+
+* Hvis du bruker Saitek P2600 Rumble Force Pad, anbefales du å også bruke
+  drivere fra Saitek (se avsnitt 3.2) i stedet for driverne som fulgte
+  med Windows. Med Windows-driverne kan det hende du må angi opp/ned-aksen
+  for den høyre styrespaken via alternativermenyen i spillet på nytt for at spillet skal fungere ordentlig.
+
+* Hvis du bruker Realtek High Definition Audio, Soundmax HD Audio eller nForce Audio
+  kan hende du vil oppleve uregelmessigheter. Dette problemet kan unngås ved å redusere
+  maskinvareakselerasjonen til 'Standard' i Windows Kontrollpanel -> Lyder og lydenheter
+  -> Lyd-kategorien -> Avansert -> Ytelse-kategorien.
+
+* Hvis du bruker en AMD dobbelkjerneprosessor, kan du oppleve at menypunktene
+  i spillet flimrer. Du kan unngå dette problemet ved å installere AMD Dual-Core
+  Optimizer som du finner på AMDs nettsted (se avsnitt 3.2).
+
+* Hvis du opplever grafikkproblemer, må du kontrollere at skjermdriverens
+  kontrollpanel IKKE er konfigurert til å overstyre programinnstillingene.
+
+* Vibreringsfunksjonen fungerer bare med Xbox 360 Håndkontroller.
+
+################################################################################
+
+3. Viktige nettsteder, kontaktinformasjon og kundestøtte
+
+################################################################################
+
+--------------------------------------------------------------------------------
+3.1. Kundestøtte
+
+Før du kontakter Ubisofts kundestøtteavdeling, ber vi deg lese gjennom denne 
+håndboken og VIKTIG-filen (i spillskiven). Du må også sørge for at 
+datamaskinen din oppfyller systemkravene, ettersom våre støtterepresentanter 
+ikke vil kunne hjelpe kunder med datamaskiner som ikke oppfyller disse kravene.
+Deretter, gå gjennom vår Vanlige spørsmål eller søke gjennom støttedatabasen på 
+http://support.ubi.com. Her finner du den nyeste oppdaterte informasjonen
+etter at spillet ble utgitt.
+
+Hvis du skal kontakte kundestøtteavdelingen, må du sørge for å ha
+følgende informasjon tilgjengelig:
+
+-Produktets fullstendige tittel (inklusiv versjonsnummer)
+-Nøyaktig feilmelding (om aktuelt) og en kort beskrivelse av
+ problemet du har støtt på
+-Prosessorens hastighet og produsent
+-RAM
+-Operativsystem
+-Skjermkortet du bruker, og hvor mye RAM det har
+ CD-ROM- eller DVD-ROM-stasjonens merke og type
+-Lydkorttypen du bruker
+
+
+Kundestøtte via Internett
+
+Dette er den beste måten å finne svarene på Vanlige spørsmål til spillene 
+våre. Vår liste over Vanlige spørsmål er tilgjengelig hele døgnet, hele uken,
+og inneholder til enhver tid oppdatert kundestøtteinformasjon, inklusiv 
+programoppdateringer til alle våre spill. Vi oppdaterer støttesidene daglig, 
+så husk å søke her først når du har et problem: http://support.ubi.com/.
+
+
+Kontakte oss på webpost
+
+Vi tilbyr ikke lenger kundestøtte via standard e-post, men vi tilbyr 
+kundestøtte gjennom webpost. Ved å ta spørsmålene dine direkte til vår 
+nettside, kan vi raskere svare på spørsmålene dine enn det ville ha tatt 
+gjennom standard e-post. For å sende oss en webpost, logg deg inn på vår 
+nettside på http://support.ubi.com.
+
+Her finner du Ubisoft Solution Center hvor du kan
+bla gjennom våre lister med Vanlige spørsmål og
+søke etter kjente problemer og løsninger, og sende oss en forespørsel om
+personlig assistanse fra en kundestøtterepresentant ved å bruke 
+spørrefunksjonen. De fleste webpostene blir svart innen to arbeidsdager.
+
+
+
+Kontakte oss på telefon
+
+Kontakte oss på telefon: Du kan også kontakte oss via telefon på 
+(0045) 38 32 02 50. Merk at dette nummeret kun er til teknisk assistanse. 
+Når du skal ringe vår kundestøttetelefon, må du sørge for å ha datamaskinen 
+foran deg.
+
+Våre kundestøtterepresentanter er tilgjengelige
+mandag til fredag fra 0900 til 2100 (EST) (unntatt fridager). 
+Hvis du vil unngå fjerntakster eller kontakte en kundestøtterepresentant
+direkte utenfor åpningstiden, kan du se vår liste over Vanlige spørsmål 
+eller sende oss en webpost.
+
+Pour du service en français, veuillez contacter: (866) 824 6515.
+Para la ayuda en español llame: (866) 824-6515.
+
+
+
+Kontakte oss via vanlig postgang
+
+Dersom de andre metodene ikke fungerer, kan du skrive til oss på:
+
+
+Ubisoft Technical Support
+Ubisoft Nordic A/S
+Hoerkaer 20
+DK-2730 Herlev
+
+
+
+Returpolitikk
+
+Ikke send spill i retur direkte til Ubisoft før du har kontaktet kundestøtte. 
+Det er i vår polise at retur av spill håndteres av spillforhandleren eller 
+nettsiden hvor du har kjøpt produktet. Hvis du har en spillskive som er skadet 
+eller inneholder riper, gå inn på vår liste over Vanlige spørsmål til spillet 
+ditt og få den nyeste erstatningspolitikk og priser. Vi vil ikke godta 
+uoppfordrede returer/utbytter uten gyldig godkjennelse og en autorisasjonsnr. 
+returnert materiell fra en kundestøtterepresentant.
+
+
+--------------------------------------------------------------------------------
+3.2. Viktige nettsteder
+
+Offisielt nettsted for Assassin’s Creed II:
+	http://www.assassinscreed2.com
+
+DirectX:
+	http://www.microsoft.com/windows/directx
+
+Oppdaterte ATI-drivere:
+	http://www.ati.com/support/driver.html
+
+Oppdaterte NVIDIA-drivere:
+	http://www.nvidia.com/content/drivers/drivers.asp
+
+Oppdaterte Creative Labs-drivere:
+	http://us.creative.com/support/downloads/
+
+Oppdaterte Intel-drivere:
+	http://downloadcenter.intel.com/
+
+Oppdaterte AMD-drivere:
+	http://www.amd.com/
+
+Oppdaterte Saitek-drivere:
+	http://www.saitek.com/
